@@ -1,0 +1,4 @@
+com\clientpackage\client.class
+com\serverpackage\operation.class
+com\serverpackage\server$ClientHandler.class
+com\serverpackage\server.class
