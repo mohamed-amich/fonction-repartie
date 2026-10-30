@@ -1,0 +1,3 @@
+com\serverpackage\server.class
+com\clientpackage\client.class
+com\serverpackage\ClientHandler.class
